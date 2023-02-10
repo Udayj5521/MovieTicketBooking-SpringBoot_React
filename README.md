@@ -1,7 +1,5 @@
 ## Online Movie Ticket Booking Platform
 This project constructs an online movie ticket booking website. 
-The platform currently supports browsing movie information of movie theaters and movies, 
-and ticket reservation and cancellation services for registered users. Here is a [demo video](https://youtu.be/7e6kLWGN-fA) about this platform.
 ### Languages/Frameworks
 
 #### [Frontend](frontend)
@@ -34,8 +32,6 @@ The application will be launched at [http://localhost:8080](http://localhost:808
 2. Platform member registration and login.
 3. Support movie tickets reservation and cancellation for registered members only. 
 
-### Demo Video
-[![](images/demoThumbnail.png)](https://youtu.be/7e6kLWGN-fA)
 
 ### ToDo
 - [ ] Enable searchbar function
